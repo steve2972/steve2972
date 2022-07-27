@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steve2972&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steve2972&repo=convoychat" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steve2972&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **steve2972/steve2972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
